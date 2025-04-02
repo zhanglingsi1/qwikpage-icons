@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>icons/check</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/check" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#2D3040" fill-rule="nonzero" opacity="0" x="0" y="0" width="32" height="32"></rect>
+        <path d="M28.5,5.9375 L26.315625,5.9375 C26.009375,5.9375 25.71875,6.078125 25.53125,6.31875 L12.646875,22.640625 L6.46875,14.8125 C6.278125,14.571875 5.990625,14.43125 5.684375,14.43125 L3.5,14.43125 C3.290625,14.43125 3.175,14.671875 3.303125,14.834375 L11.8625,25.678125 C12.2625,26.184375 13.03125,26.184375 13.434375,25.678125 L28.696875,6.3375 C28.825,6.178125 28.709375,5.9375 28.5,5.9375 Z" id="Shape" fill="#2D3040" fill-rule="nonzero"></path>
+    </g>
+</svg>

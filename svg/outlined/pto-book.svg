@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>icons/book</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/book" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#2D3040" fill-rule="nonzero" opacity="0" x="0" y="0" width="32" height="32"></rect>
+        <path d="M26,2 L6,2 C5.446875,2 5,2.446875 5,3 L5,29 C5,29.553125 5.446875,30 6,30 L26,30 C26.553125,30 27,29.553125 27,29 L27,3 C27,2.446875 26.553125,2 26,2 Z M17.875,4.25 L20.875,4.25 L20.875,10.809375 L19.421875,9.75 L17.875,10.85625 L17.875,4.25 Z M24.75,27.75 L7.25,27.75 L7.25,4.25 L16,4.25 L16,13.528125 C16,13.63125 16.03125,13.734375 16.09375,13.81875 C16.253125,14.04375 16.565625,14.096875 16.790625,13.934375 L19.409375,12.0625 L21.953125,13.91875 C22.0375,13.98125 22.140625,14.015625 22.246875,14.015625 C22.521875,14.015625 22.746875,13.790625 22.746875,13.515625 L22.746875,4.25 L24.746875,4.25 L24.746875,27.75 L24.75,27.75 Z" id="Shape" fill="#2D3040" fill-rule="nonzero"></path>
+    </g>
+</svg>

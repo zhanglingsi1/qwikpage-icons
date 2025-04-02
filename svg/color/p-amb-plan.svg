@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>经营计划</title>
+    <g id="0512评审版本app设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图提供" transform="translate(-68.000000, -433.000000)">
+            <g id="经营计划" transform="translate(68.000000, 433.000000)">
+                <circle id="椭圆形" fill="#EBF4FF" cx="40" cy="40" r="40"></circle>
+                <g id="基础事件分类" transform="translate(24.000000, 25.000000)" fill="#2573EF">
+                    <path d="M-3.55271368e-14,2.66453526e-15 L13,2.66453526e-15 L13,12 L-3.55271368e-14,12 L-3.55271368e-14,2.66453526e-15 Z M18,4.4408921e-16 L33,4.4408921e-16 L33,5 L18,5 L18,4.4408921e-16 Z M18,8 L33,8 L33,13 L18,13 L18,8 Z M18,18 L33,18 L33,23 L18,23 L18,18 Z M18,25 L33,25 L33,30 L18,30 L18,25 Z M-3.55271368e-14,18 L13,18 L13,30 L-3.55271368e-14,30 L-3.55271368e-14,18 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

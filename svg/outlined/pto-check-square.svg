@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>icons/check-square</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/check-square" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#2D3040" fill-rule="nonzero" opacity="0" x="0" y="0" width="32" height="32"></rect>
+        <path d="M13.534375,20.553125 L9.640625,15.153125 C9.521875,14.9875 9.640625,14.75625 9.84375,14.75625 L11.309375,14.75625 C11.63125,14.75625 11.93125,14.9125 12.11875,15.171875 L14.34375,18.259375 L19.253125,11.446875 C19.440625,11.184375 19.74375,11.03125 20.0625,11.03125 L21.528125,11.03125 C21.73125,11.03125 21.85,11.2625 21.73125,11.428125 L15.15,20.553125 C14.753125,21.10625 13.93125,21.10625 13.534375,20.553125 L13.534375,20.553125 Z M27.5,3.5 C28.053125,3.5 28.5,3.946875 28.5,4.5 L28.5,27.5 C28.5,28.053125 28.053125,28.5 27.5,28.5 L4.5,28.5 C3.946875,28.5 3.5,28.053125 3.5,27.5 L3.5,4.5 C3.5,3.946875 3.946875,3.5 4.5,3.5 L27.5,3.5 Z M26.25,26.25 L26.25,5.75 L5.75,5.75 L5.75,26.25 L26.25,26.25 Z" id="Shape" fill="#2D3040" fill-rule="nonzero"></path>
+    </g>
+</svg>

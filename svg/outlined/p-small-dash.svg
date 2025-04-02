@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>p-small-dash</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-179.000000, -1839.000000)">
+            <g id="p-small-dash" transform="translate(179.000000, 1839.000000)">
+                <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <g transform="translate(1.000000, 7.350000)" fill="#000000" fill-rule="nonzero" id="形状">
+                    <path d="M0,0 L1.29681354,0 L1.29681354,1.29681354 L0,1.29681354 L0,0 Z M3.17300348,0 L4.46981702,0 L4.46981702,1.29681354 L3.17300348,1.29681354 L3.17300348,0 Z M9.54165921,0 L10.8269965,0 L10.8269965,1.29681354 L9.53018298,1.29681354 L9.53018298,0 L9.54165921,0 Z M12.7146627,0 L14,0 L14,1.29681354 L12.7031865,1.29681354 L12.7031865,0 L12.7146627,0 Z M6.34600695,0 L7.6428205,0 L7.6428205,1.29681354 L6.35748318,1.29681354 L6.35748318,0 L6.34600695,0 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

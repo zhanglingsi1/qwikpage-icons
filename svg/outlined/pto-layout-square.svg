@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>icons/layout-square</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/layout-square" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#2D3040" fill-rule="nonzero" opacity="0" x="0" y="0" width="32" height="32"></rect>
+        <path d="M27.5,3.5 L4.5,3.5 C3.946875,3.5 3.5,3.946875 3.5,4.5 L3.5,27.5 C3.5,28.053125 3.946875,28.5 4.5,28.5 L27.5,28.5 C28.053125,28.5 28.5,28.053125 28.5,27.5 L28.5,4.5 C28.5,3.946875 28.053125,3.5 27.5,3.5 Z M5.75,5.75 L10,5.75 L10,26.25 L5.75,26.25 L5.75,5.75 Z M26.25,26.25 L12,26.25 L12,12 L26.25,12 L26.25,26.25 Z M12,10 L12,5.75 L26.25,5.75 L26.25,10 L12,10 Z" id="Shape" fill="#2D3040" fill-rule="nonzero"></path>
+    </g>
+</svg>

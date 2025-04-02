@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>p-minus</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-602.000000, -436.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="p-minus" transform="translate(602.000000, 436.000000)">
+                <rect id="矩形" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <path d="M14.8478261,7.35 L1.15217391,7.35 C1.06847826,7.35 1,7.41157895 1,7.48684211 L1,8.51315789 C1,8.58842105 1.06847826,8.65 1.15217391,8.65 L14.8478261,8.65 C14.9315217,8.65 15,8.58842105 15,8.51315789 L15,7.48684211 C15,7.41157895 14.9315217,7.35 14.8478261,7.35 Z" id="路径"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>p-caret-down</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-290.000000, -271.000000)" fill="#000000">
+            <g id="p-caret-down" transform="translate(290.000000, 271.000000)">
+                <rect id="矩形备份-25" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <path d="M8.22901589,4.77065514 L13.0821839,10.5062173 C13.1892071,10.6326993 13.1734327,10.8219927 13.0469507,10.9290159 C12.9927837,10.9748495 12.9241242,11 12.853168,11 L3.14683199,11 C2.98114657,11 2.84683199,10.8656854 2.84683199,10.7 C2.84683199,10.6290438 2.87198249,10.5603843 2.91781611,10.5062173 L7.77098411,4.77065514 C7.87800733,4.64417316 8.06730069,4.62839871 8.19378267,4.73542192 C8.20648376,4.746169 8.21826881,4.75795405 8.22901589,4.77065514 Z" id="三角形" transform="translate(8.000000, 7.750000) scale(1, -1) translate(-8.000000, -7.750000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

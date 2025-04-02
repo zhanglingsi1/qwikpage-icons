@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>p-down-square</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-459.000000, -436.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="p-down-square" transform="translate(459.000000, 436.000000)">
+                <rect id="矩形" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <g id="编组-8" transform="translate(1.000000, 1.000000)">
+                    <path d="M6.88625,9.56725 C6.94225,9.64425 7.056,9.64425 7.112,9.56725 L10.227,5.26225 C10.2935,5.1695 10.227,5.04 10.11325,5.04 L9.2925,5.04 C9.114,5.04 8.94425,5.12575 8.83925,5.271 L7,7.8155 L5.159,5.271 C5.054,5.12575 4.886,5.04 4.70575,5.04 L3.885,5.04 C3.77125,5.04 3.70475,5.1695 3.77125,5.26225 L6.88625,9.56725 Z" id="路径"></path>
+                    <path d="M13.44,0 L0.56,0 C0.25025,0 0,0.25025 0,0.56 L0,13.44 C0,13.74975 0.25025,14 0.56,14 L13.44,14 C13.74975,14 14,13.74975 14,13.44 L14,0.56 C14,0.25025 13.74975,0 13.44,0 Z M12.74,12.74 L1.26,12.74 L1.26,1.26 L12.74,1.26 L12.74,12.74 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

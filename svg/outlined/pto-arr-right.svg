@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>icons/arr-right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/arr-right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#2D3040" fill-rule="nonzero" opacity="0" x="0" y="0" width="32" height="32"></rect>
+        <path d="M23.928125,15.2125 L9.840625,4.209375 C9.675,4.08125 9.4375,4.196875 9.4375,4.40625 L9.4375,6.821875 C9.4375,6.975 9.509375,7.121875 9.628125,7.215625 L20.878125,16 L9.628125,24.784375 C9.50625,24.878125 9.4375,25.025 9.4375,25.178125 L9.4375,27.59375 C9.4375,27.803125 9.678125,27.91875 9.840625,27.790625 L23.928125,16.7875 C24.440625,16.3875 24.440625,15.6125 23.928125,15.2125 Z" id="Shape" fill="#2D3040" fill-rule="nonzero"></path>
+    </g>
+</svg>

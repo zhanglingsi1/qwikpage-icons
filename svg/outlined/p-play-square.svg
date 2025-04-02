@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>p-play-square</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-769.000000, -436.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="p-play-square" transform="translate(769.000000, 436.000000)">
+                <rect id="矩形" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <path d="M14.44,1 C14.74975,1 15,1.25025 15,1.56 L15,1.56 L15,14.44 C15,14.74975 14.74975,15 14.44,15 L14.44,15 L1.56,15 C1.25025,15 1,14.74975 1,14.44 L1,14.44 L1,1.56 C1,1.25025 1.25025,1 1.56,1 L1.56,1 Z M13.74,2.26 L2.26,2.26 L2.26,13.74 L13.74,13.74 L13.74,2.26 Z M6.46,5.256 C6.46,5.0915 6.65075,5.0005 6.78025,5.102 L6.78025,5.102 L10.26975,7.846 C10.3695,7.9265 10.3695,8.077 10.26975,8.15575 L10.26975,8.15575 L6.78025,10.898 C6.65075,10.9995 6.46,10.90675 6.46,10.74225 L6.46,10.74225 Z" id="形状结合"></path>
+            </g>
+        </g>
+    </g>
+</svg>

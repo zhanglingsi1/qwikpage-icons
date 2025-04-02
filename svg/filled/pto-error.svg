@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>icons/error-fill</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/error-fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#2D3040" fill-rule="nonzero" opacity="0" x="0" y="0" width="32" height="32"></rect>
+        <path d="M29.865625,26.75 L16.865625,4.25 C16.671875,3.915625 16.3375,3.75 16,3.75 C15.6625,3.75 15.325,3.915625 15.134375,4.25 L2.134375,26.75 C1.75,27.41875 2.23125,28.25 3,28.25 L29,28.25 C29.76875,28.25 30.25,27.41875 29.865625,26.75 Z M15,13 C15,12.8625 15.1125,12.75 15.25,12.75 L16.75,12.75 C16.8875,12.75 17,12.8625 17,13 L17,18.75 C17,18.8875 16.8875,19 16.75,19 L15.25,19 C15.1125,19 15,18.8875 15,18.75 L15,13 Z M16,24 C15.171875,24 14.5,23.328125 14.5,22.5 C14.5,21.671875 15.171875,21 16,21 C16.828125,21 17.5,21.671875 17.5,22.5 C17.5,23.328125 16.828125,24 16,24 Z" id="Shape" fill="#2D3040" fill-rule="nonzero"></path>
+    </g>
+</svg>

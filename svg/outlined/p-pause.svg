@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>p-pause</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-580.000000, -1157.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="p-pause" transform="translate(580.000000, 1157.000000)">
+                <rect id="矩形" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <path d="M3.85,1 L5.15,1 L5.15,15 L3.85,15 L3.85,1 Z M12.02,1 L10.98,1 C10.9085,1 10.85,1.075 10.85,1.16666667 L10.85,14.8333333 C10.85,14.925 10.9085,15 10.98,15 L12.02,15 C12.0915,15 12.15,14.925 12.15,14.8333333 L12.15,1.16666667 C12.15,1.075 12.0915,1 12.02,1 Z" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>
