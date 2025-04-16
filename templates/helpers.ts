@@ -1,8 +1,8 @@
 import { IconDefinition, AbstractNode } from './types';
 
 const defaultColors = {
-  primaryColor: '#333',
-  secondaryColor: '#E6E6E6'
+  primaryColor: '#1677ff',
+  secondaryColor: '#e6f4ff'
 };
 
 export interface HelperRenderOptions {

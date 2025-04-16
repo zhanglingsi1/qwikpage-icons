@@ -103,8 +103,8 @@ declare function renderIconDefinitionToSVGElement(
 
 interface HelperRenderOptions {
   placeholders?: {
-    primaryColor?: string; // default #333
-    secondaryColor?: string; // default #E6E6E6
+    primaryColor?: string; // default '#1677ff'
+    secondaryColor?: string; // default '#e6f4ff'
   };
   extraSVGAttrs?: {
     [key: string]: string;
